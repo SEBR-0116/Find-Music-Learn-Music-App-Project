@@ -5,7 +5,7 @@ Project #1 (Wireframes Attached)
 HTML, CSS, and JavaScript
 
 <h2> Description </h2>
-This app is useful for dance, piano, and guitar lessons. Any learners who are self-teaching themselves or started taking lessons to learning any of these three instrument categories can search for a song to learn by its level. Not only learners but instructors can find this app useful in preparing the lessons to teach according to the student's skills level.
+This app is useful for anyone involved in dance, piano, or guitar lessons. Any learners who are self-teaching themselves or started taking lessons to learning any of these three instrument categories can search for a song to learn by its level. Not only learners but instructors can find this app useful in preparing the lessons to teach according to the student's skills level.
 
 <h2> How to Get Started </h2>
 The app allows you to either search by the "instrumenet & level" or by "artist/track name." 
