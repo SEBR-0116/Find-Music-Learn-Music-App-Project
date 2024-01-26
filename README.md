@@ -1,5 +1,5 @@
 # Find-Music-Learn-Music-App-Project
-Project #1 (Wireframes Attached)
+Project #1 (Wireframes Attached) 
 
 <h2> Built With </h2>
 HTML, CSS, and JavaScript
