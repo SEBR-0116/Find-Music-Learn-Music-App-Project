@@ -4,7 +4,8 @@ Project #1
 
 
 <h2> Wireframes </h2>
-
+  <img scr="Find Music & Learn Music (1).png">
+  <img scr="Find Music & Learn Music (2).png">
 
 <h2> Description </h2>
 
